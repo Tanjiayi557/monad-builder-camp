@@ -4,8 +4,14 @@
 - Application: Web3 暑期实习计划 - Monad Buidler Camp
 
 ## Notes
-
 <!-- Content_START -->
+# 2026-07-27
+<!-- DAILY_CHECKIN_2026-07-27_START -->
+# 2026-07-27
+
+继续学习
+<!-- DAILY_CHECKIN_2026-07-27_END -->
+
 # 2026-07-26
 <!-- DAILY_CHECKIN_2026-07-26_START -->
 # 2026-07-26
